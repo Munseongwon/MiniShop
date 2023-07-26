@@ -1,5 +1,5 @@
-# FlutterToon [FTOON]
-### NaverWeebToon 월별 모음집
+# MiniShop
+### 미니 상점 어플리케이션
 <img src='shopping.drawio.png' alt='shopping mall algorithm' width="100%" height="500px"/>
 
 
