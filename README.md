@@ -1,4 +1,5 @@
 ## MiniShop[미니 상점 어플리케이션]
+### 안드로이드 java를 활용한 미니샵 어플리케이션
 <img src='mini shopping mall.png' alt='shopping mall algorithm' width="100%" height="500px"/>
 
 ## 개발 플로우 차트
