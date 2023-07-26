@@ -1,6 +1,6 @@
 # FlutterToon [FTOON]
 ### NaverWeebToon 월별 모음집
-<img src='shopping.drawio.png' alt='shopping mall algorithm' width="1280px" height="500px"/>
+<img src='shopping.drawio.png' alt='shopping mall algorithm' width="100%" height="500px"/>
 
 
 
